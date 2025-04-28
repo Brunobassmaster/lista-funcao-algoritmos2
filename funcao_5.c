@@ -1,6 +1,6 @@
 #include<stdio.h>
-/*5 - FaÁa um procedimento que recebe por par‚metro o tempo de duraÁ„o de
-uma f·brica expressa em segundos e imprima esse tempo em horas, minutos
+/*5 - Fa√ßa um procedimento que recebe por par√¢metro o tempo de dura√ß√£o de
+uma f√°brica expressa em segundos e imprima esse tempo em horas, minutos
 e segundos. .*/
 float tempo(float seg )
   {
